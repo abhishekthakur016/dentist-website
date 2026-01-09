@@ -84,7 +84,7 @@ const Appointment = () => {
   };
 
   return (
-    <section className="py-20 bg-gradient-to-b from-gray-50 to-white min-h-screen">
+    <section className="py-20 bg-gradient-to-br from-blue-900 via-blue-100 to-blue-200 min-h-screen">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Header Section */}

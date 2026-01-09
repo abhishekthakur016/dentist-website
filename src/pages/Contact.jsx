@@ -51,7 +51,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="min-h-screen  bg-gradient-to-br from-blue-700 via-blue-100 to-blue-800 py-12 px-4">
+    <section className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-100 to-blue-200 py-12 px-4">
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
